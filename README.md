@@ -1,4 +1,4 @@
-# section06
+# layout challenge
 
 A new Flutter application.
 
